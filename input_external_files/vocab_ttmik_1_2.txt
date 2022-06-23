@@ -1,0 +1,135 @@
+# Vocab from TTMIK Level 1
+water 물
+milk 우유
+coffee 커피
+tea 차
+steamed rice, meal 밥
+human, person 사람
+friend 친구
+student 학생
+bag 가방
+book 책
+mobile phone 핸드폰
+computer 컴퓨터
+car 차
+house, home 집
+office 사무실
+school 학교
+news 뉴스
+movie 영화
+
+Verb
+to do 하다
+to go 가다
+to come 오다
+to see, to watch, to look at 보다
+to eat 먹다
+to buy 사다
+to sleep 자다
+to read 읽다
+to work 일하다
+to study 공부하다
+to clean 청소하다
+to cook 요리하다
+to exercise 운동하다
+to love 사랑하다
+
+Descriptive Verb
+to be nice, to be stylish 멋있다
+to be fun, to be interesting 재미있다
+to be strange 이상하다
+to be big 크다
+to be heavy 무겁다
+to be hungry 배고프다
+to be spicy 맵다
+to be hurting 아프다
+
+Adverb
+how 어떻게
+why 왜
+when 언제
+today 오늘
+yesterday 어제
+tomorrow 내일
+now 지금
+earlier (today), a while ago (today) 아까
+later, next time 나중에
+
+# Vocab from TTMIK Level 2
+Noun
+clothes 옷
+jeans 청바지
+skirt 치마
+wallet 지갑
+hat, cap 모자
+teacher 선생님
+older brother 형
+older sister 언니
+younger brother 남동생
+younger sister 여동생
+elementary school student 초등학생
+middle school student 중학생
+high school student 고등학생
+university student 대학생
+
+Verb
+to run 달리다
+to go to work 출근하다
+to live 살다
+to put on, to wear 입다
+to meet 만나다
+to touch 만지다
+to send 보내다
+to buy 사다
+
+Descriptive Verb
+to be late 늦다
+to be fast 빠르다
+to be expensive 비싸다
+to be bad 나쁘다
+to be busy 바쁘다
+to be scary 무섭다
+to be pretty 예쁘다
+to be kind 착하다
+to be long 길다
+to be small 작다
+to be cold 춥다
+to be hot 덥다
+to be far 멀다
+to be tired 피곤하다
+
+Adverb
+alone 혼자
+a lot 많이
+every day 매일
+quickly 빨리
+together 같이
+already 벌써
+a little, a bit, a little bit 조금
+really, truly 정말
+very, quite 아주
+not really, not particularly 별로
+not at all 전혀
+
+Months of the Year
+January 1월
+February 2월
+March 3월
+April 4월
+May 5월
+June 6월
+July 7월
+August 8월
+September 9월
+October 10월
+November 11월
+December 12월
+
+Days of the Week
+Monday 월요일
+Tuesday 화요일
+Wednesday 수요일
+Thursday 목요일
+Friday 금요일
+Saturday 토요일
+Sunday 일요일
