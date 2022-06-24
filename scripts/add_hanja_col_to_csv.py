@@ -1,5 +1,5 @@
 import pandas as pd
-import numpy as np
+import os
 
 from vocabulary_grouping_tools.util.constants import HANGUL_COL_NM, HANJA_COL_NM, ENGLISH_COL_NM
 
@@ -37,8 +37,14 @@ def add_hada_to_hanja_words(row):
     else:
         return row['hanja_word']
 
-print(joined_df)
 joined_df['hanja_word_with_hada'] = joined_df.apply(add_hada_to_hanja_words, axis=1)
 
-joined_df = joined_df.reset_index().sort_values(HANGUL_COL_NM)
-joined_df.to_csv('output/temp_vocab_grouping.csv')
+num_hangul_words = joined_df.groupby(HANGUL_COL_NM).agg('count')[HANJA_COL_NM].rename('num_hangul_words')
+joined_df_2 = joined_df.join(num_hangul_words, on=HANGUL_COL_NM)
+
+joined_df_2 = joined_df_2.reset_index().sort_values(['num_hangul_words', HANGUL_COL_NM], ascending=False)
+
+OUTPUT_PATH = f'output/{FILE_NAME}'
+
+os.makedirs(OUTPUT_PATH, exist_ok=True)
+joined_df_2.to_csv(f'{OUTPUT_PATH}/{FILE_NAME}_with_hanja.csv')
