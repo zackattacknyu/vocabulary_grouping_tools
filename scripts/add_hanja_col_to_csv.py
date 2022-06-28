@@ -37,14 +37,13 @@ def add_hada_to_hanja_words(row):
     else:
         return row['hanja_word']
 
+
 joined_df['hanja_word_with_hada'] = joined_df.apply(add_hada_to_hanja_words, axis=1)
 
 num_hangul_words = joined_df.groupby(HANGUL_COL_NM).agg('count')[HANJA_COL_NM].rename('num_hangul_words')
 joined_df_2 = joined_df.join(num_hangul_words, on=HANGUL_COL_NM)
 
 joined_df_2 = joined_df_2.reset_index().sort_values(['num_hangul_words', HANGUL_COL_NM], ascending=False)
-
-OUTPUT_PATH = f'output/{FILE_NAME}'
 
 os.makedirs(OUTPUT_PATH, exist_ok=True)
 joined_df_2.to_csv(f'{OUTPUT_PATH}/{FILE_NAME}_with_hanja.csv')
