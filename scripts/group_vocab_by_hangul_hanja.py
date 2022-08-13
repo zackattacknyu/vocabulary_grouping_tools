@@ -6,3 +6,8 @@ TODO:
     - MAKE COLUMN WITH NUMBER OF HANGUL SUBSEQ & NUMBER OF HANJA SUBSEQ
     - SORT VALUES IN VARIOUS WAYS
 """
+
+#https://developers.naver.com/docs/papago/papago-nmt-api-reference.md
+
+# Naver Client ID: WyPCRsYaxeKJ748sfFdV
+# Naver Client secret: EFpX_fxYpo
