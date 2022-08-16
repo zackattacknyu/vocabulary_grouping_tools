@@ -2,14 +2,14 @@ import urllib.request
 import urllib.parse
 import json
 
-QUERY_PARAMS_START = 'source=ko&target=en&text='
 API_URL = 'https://openapi.naver.com/v1/papago/n2mt'
 ENCODING_TYPE = 'utf-8'
 
-
-def get_english_translation(korean_text, client_id, client_secret):
+# Ref: https://developers.naver.com/docs/papago/papago-nmt-api-reference.md
+def get_english_translation(korean_text, client_id, client_secret,
+                            source_language='ko', target_language='en'):
     enc_text = urllib.parse.quote(korean_text)
-    data = f'{QUERY_PARAMS_START}{enc_text}'
+    data = f'source={source_language}&target={target_language}&text={enc_text}'
     request = urllib.request.Request(API_URL)
     request.add_header("X-Naver-Client-Id", client_id)
     request.add_header("X-Naver-Client-Secret", client_secret)
