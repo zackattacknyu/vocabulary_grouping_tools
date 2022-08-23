@@ -17,6 +17,8 @@ hangul_hanja_df = pd.read_csv('metadata/hanja_hangul_pairs.csv')
 
 eng_korean_df['does_end_in_hada'] = eng_korean_df[HANGUL_COL_NM].apply(lambda x: x.endswith('하다'))
 
+hanja_translation = pd.read_csv('metadata/hanja_subsequence_translation_all.csv')
+
 
 def remove_hada_if_there(row):
     if row['does_end_in_hada']:
@@ -45,5 +47,6 @@ joined_df_2 = joined_df.join(num_hangul_words, on=HANGUL_COL_NM)
 
 joined_df_2 = joined_df_2.reset_index().sort_values(['num_hangul_words', HANGUL_COL_NM], ascending=False)
 
+joined_df_3 = joined_df_2.join(hanja_translation.set_index('hanja_subsequence'), on='hanja_word', how='left')
 os.makedirs(OUTPUT_PATH, exist_ok=True)
-joined_df_2.to_csv(f'{OUTPUT_PATH}/{FILE_NAME}_with_hanja.csv')
+joined_df_3.to_csv(f'{OUTPUT_PATH}/{FILE_NAME}_with_hanja_v2.csv')
