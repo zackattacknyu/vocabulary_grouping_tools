@@ -17,7 +17,7 @@ hangul_hanja_df = pd.read_csv('metadata/hanja_hangul_pairs.csv')
 
 eng_korean_df['does_end_in_hada'] = eng_korean_df[HANGUL_COL_NM].apply(lambda x: x.endswith('하다'))
 
-hanja_translation = pd.read_csv('metadata/hanja_subsequence_translation_all.csv')
+hanja_translation = pd.read_csv('metadata/hanja_subsequence_translation.csv')
 
 
 def remove_hada_if_there(row):
