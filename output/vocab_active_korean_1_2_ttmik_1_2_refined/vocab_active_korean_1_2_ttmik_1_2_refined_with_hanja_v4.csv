@@ -1,0 +1,435 @@
+,index,hangul_word,hangeul_english_translation,does_end_in_hada,hanja_word,hanja_exists,hanja_word_with_hada,num_hangul_words,Unnamed: 0,hanja_english_translation
+4004,이,이,two,False,二,True,二,384,442.0,two
+4112,이,이,two,False,貳,True,貳,384,3760.0,two
+4114,이,이,two,False,贰,True,贰,384,3099.0,two
+249,구,구,nine,False,九,True,九,349,452.0,nine
+371,구,구,nine,False,玖,True,玖,349,469.0,nine
+410,구,구,nine,False,耉,True,耉,349,3763.0,nine
+2219,사,사,four,False,四,True,四,291,164.0,four
+1956,비,비,rain,False,榧,True,榧,279,2084.0,heavy rain
+5050,차,차,car,False,車,True,車,218,391.0,car
+5051,차,차,car,False,车,True,车,218,1990.0,car
+5946,형,형,elder brother from a male perspective,False,兄,True,兄,148,543.0,elder brother
+6020,형,형,older brother,False,兄,True,兄,148,543.0,elder brother
+5415,천,천,thousand,False,仟,True,仟,131,1039.0,thousand
+5426,천,천,thousand,False,千,True,千,131,214.0,thousand
+5522,천,천,thousand,False,韆,True,韆,131,981.0,thousand
+5713,표,표,ticket,False,票,True,票,106,266.0,ticket
+4222,일,일,day,False,日,True,日,102,498.0,day
+4245,일,일,one,False,一,True,一,102,329.0,one
+4252,일,일,one,False,壹,True,壹,102,289.0,one
+1174,반,반,half,False,半,True,半,101,2754.0,half
+2503,산,산,mountain,False,山,True,山,82,170.0,mountain
+1122,문,문,door,False,門,True,門,73,98.0,door
+1127,문,문,door,False,门,True,门,73,2130.0,door
+2587,삼,삼,three,False,三,True,三,58,249.0,three
+2588,삼,삼,three,False,仨,True,仨,58,3839.0,three
+5360,책,책,book,False,冊,True,冊,53,2.0,book
+5361,책,책,book,False,册,True,册,53,2589.0,book
+3140,약,약,medicine,False,药,True,药,49,493.0,medicine
+3141,약,약,medicine,False,葯,True,葯,49,416.0,medicine
+3145,약,약,medicine,False,藥,True,藥,49,172.0,medicine
+3599,월,월,month,False,月,True,月,34,354.0,month
+1585,백,백,hundred,False,佰,True,佰,27,3050.0,hundred
+1595,백,백,hundred,False,百,True,百,27,77.0,hundred
+5613,팔,팔,eight,False,八,True,八,20,2929.0,eight
+5616,팔,팔,eight,False,捌,True,捌,20,3647.0,eight
+731,년,년,year,False,哖,True,哖,16,4472.0,year
+733,년,년,year,False,年,True,年,16,330.0,year
+5564,칠,칠,seven,False,七,True,七,13,1819.0,seven
+5565,칠,칠,seven,False,柒,True,柒,13,1937.0,seven
+2967,십,십,ten,False,十,True,十,11,471.0,ten
+2486,사전,사전,dictionary,False,辭典,True,辭典,6,373.0,dictionary
+4350,일기,일기,diary,False,日記,True,日記,3,333.0,diary
+4940,직원,직원,staff,False,職員,True,職員,2,29.0,staff
+3810,의자,의자,chair,False,椅子,True,椅子,2,162.0,chair
+3801,은행,은행,bank,False,銀行,True,銀行,2,476.0,bank
+3236,영어,영어,English (language),False,英語,True,英語,2,397.0,English
+3191,연구원,연구원,researcher,False,硏究員,True,硏究員,2,470.0,researcher
+2955,시청,시청,city hall,False,市廳,True,市廳,2,181.0,city hall
+2953,시장,시장,market,False,市場,True,市場,2,190.0,market
+2478,사용,사용하다,to use,True,使用,True,使用하다,2,3266.0,use
+2479,사용,사용하다,to use,True,私用,True,私用하다,2,3219.0,private use
+1043,모자,모자,hat / cap,False,帽子,True,帽子,2,482.0,hat
+982,매일,매일,every day,False,每日,True,每日,2,337.0,every day
+824,도착,도착하다,to arrive,True,到着,True,到着하다,2,4117.0,arrive
+817,대학생,대학생,college student,False,大學生,True,大學生,2,248.0,a college student
+818,대학생,대학생,university student,False,大學生,True,大學生,2,248.0,a college student
+237,공원,공원,park,False,公園,True,公園,2,403.0,park
+6097,홍차,홍차,black tea,False,紅茶,True,紅茶,1,61.0,black tea
+6092,호선,호선,subway line number,False,號線,True,號線,1,261.0,line
+5937,한복,한복,hanbok (traditional Korean costume),False,韓服,True,韓服,1,154.0,hanbok
+5838,학생,학생,student,False,學生,True,學生,1,393.0,student
+5837,학교,학교,school,False,學校,True,學校,1,58.0,school
+5829,피곤,피곤하다,tired,True,疲困,True,疲困하다,1,658.0,be tired and sleepy
+5676,포도,포도,grape,False,葡萄,True,葡萄,1,388.0,grape
+5549,초등학생,초등학생,elementary school student,False,初等學生,True,初等學生,1,469.0,elementary school student
+5548,청소,청소하다,to clean,True,淸掃,True,淸掃하다,1,419.0,clean up
+4941,질문,질문,question,False,質問,True,質問,1,207.0,question
+4938,직업,직업,job/ occupation,False,職業,True,職業,1,108.0,occupation
+4937,지하철역,지하철역,subway station,False,地下鐵驛,True,地下鐵驛,1,194.0,subway station
+4936,지하철,지하철,subway,False,地下鐵,True,地下鐵,1,303.0,subway
+4933,지금,지금,now,False,只今,True,只今,1,90.0,only now
+4931,중학생,중학생,middle school student,False,中學生,True,中學生,1,433.0,a middle school student
+4930,중국어,중국어,Chinese (language),False,中國語,True,中國語,1,457.0,Chinese language
+4929,중국,중국,China,False,中國,True,中國,1,15.0,China
+4927,주차장,주차장,parking lot,False,駐車場,True,駐車場,1,142.0,parking lot
+4921,주말,주말,weekend,False,週末,True,週末,1,149.0,weekend
+4915,제주도,제주도,Jeju Island,False,濟州島,True,濟州島,1,132.0,Jeju Island
+4716,전화번호,전화번호,telephone number,False,電話番號,True,電話番號,1,150.0,a telephone number
+4405,장미,장미,rose,False,薔薇,True,薔薇,1,372.0,rose
+4362,작년,작년,last year,False,昨年,True,昨年,1,352.0,last year
+4352,일본어,일본어,Japanese (language),False,日本語,True,日本語,1,340.0,Japanese language
+4351,일본,일본,Japan,False,日本,True,日本,1,178.0,Japan
+4210,인천공항,인천공항,Incheon Airport,False,仁川空港,True,仁川空港,1,462.0,Incheon Airport
+4205,이용,이용,use,False,利用,True,利用,1,279.0,make use
+3804,음악,음악,music,False,音樂,True,音樂,1,229.0,music
+3455,운동,운동하다,to exercise / to work out,True,運動,True,運動하다,1,103.0,exercise
+3454,운동,운동,exercise / workout,False,運動,True,運動,1,103.0,exercise
+3453,우체국,우체국,post office,False,郵遞局,True,郵遞局,1,382.0,post office
+3452,우유,우유,milk,False,牛乳,True,牛乳,1,363.0,milk
+3451,우산,우산,umbrella,False,雨傘,True,雨傘,1,304.0,umbrella
+3448,요일,요일,a day of the week,False,曜日,True,曜日,1,250.0,observation day
+3446,요리,요리하다,to cook,True,料理,True,料理하다,1,450.0,cook
+3441,외국,외국,foreign country,False,外國,True,外國,1,168.0,foreign country
+3424,오후,오후,afternoon / p.m.,False,午後,True,午後,1,486.0,afternoon
+3234,영국,영국,the United Kingdom,False,英國,True,英國,1,123.0,the United Kingdom
+3193,연필,연필,pencil,False,鉛筆,True,鉛筆,1,355.0,pencil
+3189,여행,여행하다,to travel,True,旅行,True,旅行하다,1,321.0,travel
+3190,여행사,여행사,travel agency,False,旅行社,True,旅行社,1,104.0,travel agency
+3188,여행,여행,trip travel,False,旅行,True,旅行,1,321.0,travel
+3187,여자,여자,woman female,False,女子,True,女子,1,371.0,a woman
+3169,약국,약국,pharmacy,False,藥局,True,藥局,1,138.0,pharmacy
+2998,악수,악수하다,to shake hands,True,握手,True,握手하다,1,3648.0,shake hands
+2978,십일월,십일월,November,False,十一月,True,十一月,1,20.0,November
+2977,십이월,십이월,December,False,十二月,True,十二月,1,293.0,December
+2976,십만,십만,hundred thousand,False,十萬,True,十萬,1,353.0,one hundred thousand
+2952,시월,시월,October,False,十月,True,十月,1,144.0,October
+2773,수영,수영하다,to swim,True,水泳,True,水泳하다,1,441.0,swim in the water
+2774,수영장,수영장,swimming pool,False,水泳場,True,水泳場,1,491.0,a swimming pool
+2690,생일,생일,birthday,False,生日,True,生日,1,175.0,birthday
+2689,생선회,생선회,sliced raw fish,False,生鮮膾,True,生鮮膾,1,1.0,raw and fresh meat and vegetable dish
+2646,삼월,삼월,March,False,三月,True,三月,1,39.0,March
+2487,사진,사진,photograph,False,寫眞,True,寫眞,1,284.0,photograph
+2480,사월,사월,April,False,四月,True,四月,1,167.0,April
+2477,사무실,사무실,office,False,事務室,True,事務室,1,135.0,office
+1757,병원,병원,hospital,False,病院,True,病院,1,40.0,a hospital
+1611,백화점,백화점,department store,False,百貨店,True,百貨店,1,429.0,department store
+1507,방학,방학,school holidays,False,放學,True,放學,1,50.0,leave school
+1163,미국,미국,the United States of America,False,美國,True,美國,1,460.0,the United States
+962,등산,등산,mountain climbing / hiking,False,登山,True,登山,1,313.0,climb a mountain
+821,도서관,도서관,library,False,圖書館,True,圖書館,1,480.0,library
+750,녹차,녹차,green tea,False,綠茶,True,綠茶,1,259.0,green tea
+749,녹색,녹색,green,False,綠色,True,綠色,1,163.0,green
+681,남자,남자,man male,False,男子,True,男子,1,88.0,a man
+638,극장,극장,movie theater,False,劇場,True,劇場,1,53.0,theater
+595,국적,국적,nationality,False,國籍,True,國籍,1,286.0,nationality
+594,구월,구월,September,False,九月,True,九月,1,23.0,September
+243,교실,교실,classroom,False,敎室,True,敎室,1,263.0,classroom
+134,고등학생,고등학생,high school student,False,高等學生,True,高等學生,1,487.0,a college student
+127,건강,건강,health,False,健康,True,健康,1,490.0,health
+7,간호사,간호사,nurse,False,看護師,True,看護師,1,408.0,nurse
+6,가족,가족,family,False,家族,True,家族,1,202.0,family
+6107,힘들다,힘들다,laborous hard,False,,False,,0,,
+6096,혼자,혼자,alone,False,,False,,0,,
+6095,호텔,호텔,hotel,False,,False,,0,,
+5943,허리,허리,waist,False,,False,,0,,
+5942,햄버거,햄버거,hamburger,False,,False,,0,,
+5941,핸드폰,핸드폰,mobile phone,False,,False,,0,,
+5939,할아버지,할아버지,grandfather,False,,False,,0,,
+5938,할머니,할머니,grandmother,False,,False,,0,,
+5936,한번,한번,once,False,,False,,0,,
+5836,하얀색,하얀색,white,False,,False,,0,,
+5835,하루,하루,one day,False,,False,,0,,
+0,,하다,to do,True,,False,,0,,
+5834,하나,하나,one,False,,False,,0,,
+5833,피자,피자,pizza,False,,False,,0,,
+5832,피우다,피우다,to smoke (a cigarette),False,,False,,0,,
+5831,피아노,피아노,piano,False,,False,,0,,
+5830,피라미드,피라미드,pyramid,False,,False,,0,,
+5785,프랑스어,프랑스어,French (language),False,,False,,0,,
+5784,프랑스,프랑스,France,False,,False,,0,,
+5677,포크,포크,fork,False,,False,,0,,
+5601,파티,파티,party,False,,False,,0,,
+5600,파리,파리,Paris,False,,False,,0,,
+5599,파란색,파란색,blue,False,,False,,0,,
+5598,티셔츠,티셔츠,T-shirt,False,,False,,0,,
+5597,특히,특히,especially,False,,False,,0,,
+5593,텔레비전,텔레비전,television,False,,False,,0,,
+5592,테니스,테니스,tennis,False,,False,,0,,
+5591,택시,택시,taxi,False,,False,,0,,
+5589,타다,타다,to get on to ride,False,,False,,0,,
+5588,크다,크다,big,False,,False,,0,,
+5587,콧물,콧물,runny nose,False,,False,,0,,
+5586,콜라,콜라,cola,False,,False,,0,,
+5585,코트,코트,coat,False,,False,,0,,
+5584,코,코,nose,False,,False,,0,,
+5583,케이크,케이크,cake,False,,False,,0,,
+5582,컴퓨터,컴퓨터,computer,False,,False,,0,,
+5581,커피숍,커피숍,coffee shop,False,,False,,0,,
+5580,커피,커피,coffee,False,,False,,0,,
+5579,캐나다,캐나다,Canada,False,,False,,0,,
+5578,카메라,카메라,camera,False,,False,,0,,
+5562,치마,치마,skirt,False,,False,,0,,
+5561,치다,치다,to play / to hit / to strike,False,,False,,0,,
+5556,춥다,춥다,cold,False,,False,,0,,
+5555,춤추다,춤추다,to dance,False,,False,,0,,
+5546,청바지,청바지,jeans,False,,False,,0,,
+5359,찾다,찾다,to look for,False,,False,,0,,
+5254,찬물,찬물,cold water,False,,False,,0,,
+4987,찍다,찍다,to take (a picture),False,,False,,0,,
+4986,찌다,찌다,to gain (weight),False,,False,,0,,
+4985,쯤,쯤,about / around,False,,False,,0,,
+4984,짧다,짧다,short,False,,False,,0,,
+4983,집안일,집안일,chores,False,,False,,0,,
+4935,지우개,지우개,eraser,False,,False,,0,,
+4923,주스,주스,juice,False,,False,,0,,
+4920,주다,주다,to give,False,,False,,0,,
+4919,좋아,좋아하다,to like,True,,False,,0,,
+4918,좋다,좋다,good,False,,False,,0,,
+4917,좀,좀,please,False,,False,,0,,
+4916,조금,조금,"a little, a bit, a little bit",False,,False,,0,,
+4719,정말,정말,"really, truly",False,,False,,0,,
+4718,젓가락,젓가락,chopsticks,False,,False,,0,,
+4711,전혀,전혀,not at all,False,,False,,0,,
+4710,저분,저분,that person (honorific),False,,False,,0,,
+4709,저녁,저녁,evening,False,,False,,0,,
+4708,저거,저거,that (one),False,,False,,0,,
+4407,재미있다,재미있다,interesting,False,,False,,0,,
+4406,재미없다,재미없다,not interesting,False,,False,,0,,
+4363,작다,작다,small,False,,False,,0,,
+4359,자리,자리,seat place,False,,False,,0,,
+4358,자다,자다,to sleep,False,,False,,0,,
+4357,있다,있다,to have,False,,False,,0,,
+4356,입다,입다,to wear / to put on,False,,False,,0,,
+4355,읽다,읽다,to read,False,,False,,0,,
+4353,일어나다,일어나다,to get up,False,,False,,0,,
+4347,일곱,일곱,seven,False,,False,,0,,
+4209,인사동,인사동,Insa-dong,False,,False,,0,,
+4204,이야기,이야기하다,to talk,True,,False,,0,,
+4200,이분,이분,this person (honorific),False,,False,,0,,
+4199,이번,이번,this time,False,,False,,0,,
+4198,이메일,이메일,e-mail,False,,False,,0,,
+4197,이름,이름,name,False,,False,,0,,
+4196,이렇게,이렇게,like this /in this way,False,,False,,0,,
+4195,이거,이거,this (one),False,,False,,0,,
+3776,유럽,유럽,Europe,False,,False,,0,,
+3450,우리,우리,we / our,False,,False,,0,,
+3449,요즘,요즘,these days nowadays,False,,False,,0,,
+3442,왼쪽,왼쪽,left side,False,,False,,0,,
+3427,옷장,옷장,wardrobe / closet,False,,False,,0,,
+3426,옷,옷,clothes,False,,False,,0,,
+3421,오빠,오빠,elder brother from a female perspective,False,,False,,0,,
+3420,오른쪽,오른쪽,right side,False,,False,,0,,
+3419,오렌지,오렌지,orange,False,,False,,0,,
+3418,오다,오다,to come,False,,False,,0,,
+3417,오늘,오늘,today,False,,False,,0,,
+3241,예술의,예술의,arts,False,,False,,0,,
+3240,예쁘다,예쁘다,pretty,False,,False,,0,,
+3239,옆,옆,beside side,False,,False,,0,,
+3232,열다,열다,to open,False,,False,,0,,
+3186,여섯,여섯,six,False,,False,,0,,
+3184,여덟,여덟,eight,False,,False,,0,,
+3183,여기,여기,here,False,,False,,0,,
+3182,없다,없다,not to have,False,,False,,0,,
+3181,얼마나,얼마나,how long,False,,False,,0,,
+3180,얼마,얼마,how much,False,,False,,0,,
+3179,언제,언제,when,False,,False,,0,,
+3178,언니,언니,elder sister (female pov),False,,False,,0,,
+3177,어제,어제,yesterday,False,,False,,0,,
+3176,어머니,어머니,mother,False,,False,,0,,
+3175,어렵다,어렵다,difficult,False,,False,,0,,
+3174,어떻게,어떻게,how,False,,False,,0,,
+3173,어떤,어떤,what kind of,False,,False,,0,,
+3172,어디,어디,where,False,,False,,0,,
+3171,어깨,어깨,shoulder,False,,False,,0,,
+3117,앞,앞,front,False,,False,,0,,
+3116,앉다,앉다,to sit down,False,,False,,0,,
+2997,아홉,아홉,nine,False,,False,,0,,
+2996,아프리카,아프리카,Africa,False,,False,,0,,
+2994,아프다,아프다,ill /in pain hurt,False,,False,,0,,
+2995,아프다,아프다,to be hurting,False,,False,,0,,
+2993,아침,아침,morning,False,,False,,0,,
+2992,아직,아직,"(not) yet, still",False,,False,,0,,
+2991,아주,아주,"very, quite",False,,False,,0,,
+2990,아이스크림,아이스크림,ice cream,False,,False,,0,,
+2989,아이,아이,child,False,,False,,0,,
+2988,아버지,아버지,father,False,,False,,0,,
+2987,아래,아래,under / below,False,,False,,0,,
+2986,아들,아들,son,False,,False,,0,,
+2985,아내,아내,wife,False,,False,,0,,
+2984,아까,아까,"earlier (today), a while ago (today)",False,,False,,0,,
+2983,아기,아기,baby,False,,False,,0,,
+2980,쓰다,쓰다,to wear /to put on (a hat),False,,False,,0,,
+2981,쓰다,쓰다,to write,False,,False,,0,,
+2979,싸다,싸다,cheap,False,,False,,0,,
+2963,신발,신발,shoes,False,,False,,0,,
+2960,신다,신다,to put on (shoes),False,,False,,0,,
+2957,시청역,시청역,City Hall Station,False,,False,,0,,
+2950,시끄럽다,시끄럽다,noisy,False,,False,,0,,
+2806,슬프다,슬프다,sad,False,,False,,0,,
+2805,스파게티,스파게티,spaghetti,False,,False,,0,,
+2804,스키장,스키장,ski resort,False,,False,,0,,
+2803,스키,스키,skiing,False,,False,,0,,
+2802,쉽다,쉽다,easy,False,,False,,0,,
+2801,쉬다,쉬다,to rest,False,,False,,0,,
+2778,숟가락,숟가락,spoon,False,,False,,0,,
+2771,손님,손님,customer / guest,False,,False,,0,,
+2742,소파,소파,sofa,False,,False,,0,,
+2741,셋,셋,three,False,,False,,0,,
+2739,세일,세일,sale,False,,False,,0,,
+2738,세우다,세우다,to stop,False,,False,,0,,
+2693,선생님,선생님,teacher,False,,False,,0,,
+2692,서울,서울,Seoul,False,,False,,0,,
+2691,샤워,샤워하다,to take a shower,True,,False,,0,,
+2687,생각,생각,thinking / thought,False,,False,,0,,
+2645,삼성역,삼성역,Samseong Station,False,,False,,0,,
+2586,살다,살다,to live,False,,False,,0,,
+2474,사람,사람,"human, person",False,,False,,0,,
+2475,사람,사람,person,False,,False,,0,,
+2473,사다,사다,to buy,False,,False,,0,,
+2178,빵,빵,bread,False,,False,,0,,
+2177,빨리,빨리,quickly,False,,False,,0,,
+2176,빨래,빨래하다,to do laundry,True,,False,,0,,
+2175,빨간색,빨간색,red,False,,False,,0,,
+2174,빠르다,빠르다,to be fast,False,,False,,0,,
+2173,빌딩,빌딩,building,False,,False,,0,,
+2171,비싸다,비싸다,expensive,False,,False,,0,,
+2170,비빔밥,비빔밥,bibimbap,False,,False,,0,,
+1890,브라질,브라질,Brasil,False,,False,,0,,
+1889,불고기,불고기,bulgogi,False,,False,,0,,
+1765,부치다,부치다,to send / to mail,False,,False,,0,,
+1764,부엌,부엌,kitchen,False,,False,,0,,
+1762,볼펜,볼펜,ball-point pen,False,,False,,0,,
+1760,보다,보다,"to see, to watch, to look at",False,,False,,0,,
+1758,보내다,보내다,to send,False,,False,,0,,
+1759,보내다,보내다,to send / to mail,False,,False,,0,,
+1670,별로,별로,"not really, not particularly",False,,False,,0,,
+1669,베트남,베트남,Vietnam,False,,False,,0,,
+1668,베이징,베이징,Beijing,False,,False,,0,,
+1667,벗다,벗다,to take off,False,,False,,0,,
+1666,벌써,벌써,already,False,,False,,0,,
+1612,버스,버스,bus,False,,False,,0,,
+1583,배우다,배우다,to learn,False,,False,,0,,
+1582,배고프다,배고프다,hungry,False,,False,,0,,
+1506,방콕,방콕,Bangkok,False,,False,,0,,
+1373,밥,밥,"steamed rice, meal",False,,False,,0,,
+1273,받다,받다,to receive /to take /to get,False,,False,,0,,
+1171,밖,밖,outside,False,,False,,0,,
+1170,바지,바지,trousers pants,False,,False,,0,,
+1169,바쁘다,바쁘다,busy,False,,False,,0,,
+1168,바다,바다,sea ocean,False,,False,,0,,
+1167,바나나,바나나,banana,False,,False,,0,,
+1165,바꾸다,바꾸다,to change,False,,False,,0,,
+1166,바꾸다,바꾸다,to exchange,False,,False,,0,,
+1162,뭘,뭘,what (object),False,,False,,0,,
+1161,뭐,뭐,what,False,,False,,0,,
+1079,무슨,무슨,what kind of,False,,False,,0,,
+1078,무섭다,무섭다,scary,False,,False,,0,,
+1077,무겁다,무겁다,heavy,False,,False,,0,,
+1042,몇,몇,how many,False,,False,,0,,
+1041,명동역,명동역,Myeongdong Station,False,,False,,0,,
+991,며칠,며칠,what date,False,,False,,0,,
+990,메뉴,메뉴,menu,False,,False,,0,,
+989,멋있다,멋있다,"to be nice, to be stylish",False,,False,,0,,
+988,멀다,멀다,far,False,,False,,0,,
+987,먹다,먹다,to eat,False,,False,,0,,
+986,머리,머리,head,False,,False,,0,,
+985,맵다,맵다,hot and spicy,False,,False,,0,,
+981,맞다,맞다,right,False,,False,,0,,
+980,맛있다,맛있다,tasty / delicious,False,,False,,0,,
+979,맛없다,맛없다,untasty,False,,False,,0,,
+978,말하기,말하기,speaking,False,,False,,0,,
+977,말레이시아,말레이시아,Malaysia,False,,False,,0,,
+975,많이,많이,a lot,False,,False,,0,,
+976,많이,많이,many much,False,,False,,0,,
+974,많다,많다,many / much,False,,False,,0,,
+973,만지다,만지다,to touch,False,,False,,0,,
+972,만들다,만들다,to make,False,,False,,0,,
+971,만나다,만나다,to meet,False,,False,,0,,
+970,마드리드,마드리드,Madrid,False,,False,,0,,
+969,로마,로마,Rome,False,,False,,0,,
+968,런던,런던,London,False,,False,,0,,
+967,똑똑,똑똑하다,smart,True,,False,,0,,
+966,또,또,again / once more,False,,False,,0,,
+965,땀,땀,sweat,False,,False,,0,,
+964,딸,딸,daughter,False,,False,,0,,
+963,따뜻,따뜻하다,warm,True,,False,,0,,
+961,들어가다,들어가다,to go in to enter,False,,False,,0,,
+960,들다,들다,to be contained,False,,False,,0,,
+959,듣다,듣다,to listen to hear,False,,False,,0,,
+958,드시다,드시다,to eat (honorific),False,,False,,0,,
+957,드라마,드라마,drama (TV series),False,,False,,0,,
+956,뒷사람,뒷사람,person behind,False,,False,,0,,
+955,뒤,뒤,behind,False,,False,,0,,
+825,도쿄,도쿄,Tokyo,False,,False,,0,,
+822,도와주다,도와주다,to help,False,,False,,0,,
+820,덥다,덥다,hot,False,,False,,0,,
+819,더,더,more,False,,False,,0,,
+816,담배,담배,cigarette,False,,False,,0,,
+815,달리다,달리다,to run,False,,False,,0,,
+814,달러,달러,dollar,False,,False,,0,,
+772,닫다,닫다,to close,False,,False,,0,,
+771,다치다,다치다,to be hurt,False,,False,,0,,
+770,다이어트,다이어트,diet,False,,False,,0,,
+769,다음,다음,next,False,,False,,0,,
+768,다섯,다섯,five,False,,False,,0,,
+767,다리,다리,leg,False,,False,,0,,
+766,다른,다른,other,False,,False,,0,,
+765,다니다,다니다,to go to (a company) / to work for,False,,False,,0,,
+764,늦다,늦다,to be late,False,,False,,0,,
+763,뉴욕,뉴욕,New York,False,,False,,0,,
+762,뉴스,뉴스,news,False,,False,,0,,
+761,눈사람,눈사람,snowman,False,,False,,0,,
+754,누나,누나,elder sister from a male perspective,False,,False,,0,,
+753,누구,누구,who,False,,False,,0,,
+752,누가,누가,who,False,,False,,0,,
+751,높다,높다,high,False,,False,,0,,
+748,노래,노래하다,to sing,True,,False,,0,,
+747,노란색,노란색,yellow,False,,False,,0,,
+730,넷,넷,four,False,,False,,0,,
+729,네,네,four (when modifying a counting unit that follows),False,,False,,0,,
+728,넘어지다,넘어지다,fall down,False,,False,,0,,
+727,너무,너무,too,False,,False,,0,,
+723,내리다,내리다,to get off,False,,False,,0,,
+722,내다,내다,to pay,False,,False,,0,,
+683,낮다,낮다,low,False,,False,,0,,
+680,남동생,남동생,younger brother,False,,False,,0,,
+679,날씨,날씨,weather,False,,False,,0,,
+678,나중에,나중에,"later, next time",False,,False,,0,,
+677,나쁘다,나쁘다,bad,False,,False,,0,,
+676,나다,나다,to have (a fever/a runny nose),False,,False,,0,,
+675,끝내다,끝내다,to finish,False,,False,,0,,
+674,끝나다,끝나다,to be finished,False,,False,,0,,
+673,꽃,꽃,flower,False,,False,,0,,
+672,깎다,깎다,to discount,False,,False,,0,,
+671,까만색,까만색,black,False,,False,,0,,
+670,김치,김치,kimchi,False,,False,,0,,
+669,김밥,김밥,gimbap,False,,False,,0,,
+668,길다,길다,long,False,,False,,0,,
+646,기침,기침,cough,False,,False,,0,,
+645,기차표,기차표,train ticket,False,,False,,0,,
+640,기다리다,기다리다,to wait,False,,False,,0,,
+637,그분,그분,that person (honorific),False,,False,,0,,
+636,그림,그림,picture / drawing,False,,False,,0,,
+635,그리다,그리다,to draw to paint,False,,False,,0,,
+634,그리고,그리고,and,False,,False,,0,,
+633,그렇지만,그렇지만,but,False,,False,,0,,
+632,그럼,그럼,then / in that case,False,,False,,0,,
+631,그런데,그런데,but/ by the way,False,,False,,0,,
+630,그래서,그래서,so,False,,False,,0,,
+629,그거,그거,that (one),False,,False,,0,,
+628,그,그,that,False,,False,,0,,
+242,괜찮다,괜찮다,alright,False,,False,,0,,
+241,과일,과일,fruit,False,,False,,0,,
+133,고기,고기,meat,False,,False,,0,,
+132,계시다,계시다,to be/to stay (honorific),False,,False,,0,,
+129,걸리다,걸리다,to take (time),False,,False,,0,,
+128,걷다,걷다,to walk,False,,False,,0,,
+126,걱정,걱정,worry / concern,False,,False,,0,,
+11,같이,같이,together,False,,False,,0,,
+9,갈아타다,갈아타다,to transfer,False,,False,,0,,
+4,가르치다,가르치다,to teach,False,,False,,0,,
+3,가다,가다,to go,False,,False,,0,,
+2,가게,가게,store / shop,False,,False,,0,,
+1, 들, 들,plural marker,False,,False,,0,,

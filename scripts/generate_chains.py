@@ -30,7 +30,7 @@ english_trans_for_hanja = {
     if sum([_char.isalnum() for _char in _trans]) > 1
 }
 
-
+vocab = vocab[vocab['hanja_word'].apply(lambda x: x in english_trans_for_hanja)]
 
 divider_to_use = ['|', '/']
 def get_word_break_lists(_word_0):
@@ -85,4 +85,5 @@ vocab2['hanja_chain_with_trans'] = vocab2['hangul_hanja_subseq_chain'].apply(
     lambda x: _get_chain(x[1], english_trans_for_hanja))
 
 
-vocab2.to_csv('output/starter_vocab_with_extensive_chain_2.csv')
+vocab2 = vocab2[vocab2['hangul_word'].apply(lambda x: len(x) > 1)]
+vocab2.to_csv('output/starter_vocab_with_extensive_chain__multi_syll_words.csv')
