@@ -1,0 +1,580 @@
+,hangul_word,hangeul_english_translation,does_end_in_hada,hangul_word_wo_hada,is_good_translation,hanja_english_pairs
+0, 들,plural marker,False, 들,False,[]
+1,가게,store / shop,False,가게,False,[]
+2,가다,to go,False,가다,False,[]
+3,가르치다,to teach,False,가르치다,False,[]
+4,가방,bag,False,가방,False,"[('街坊', 'neighborhood')]"
+5,가족,family,False,가족,True,"[('家族', 'family')]"
+6,간호사,nurse,False,간호사,True,"[('看護師', 'nurse')]"
+7,갈색,brown,False,갈색,False,"[('褐色', 'brownish')]"
+8,갈아타다,to transfer,False,갈아타다,False,[]
+9,감기,cold,False,감기,False,"[('感氣', 'be moved by')]"
+10,같이,together,False,같이,False,[]
+11,개,counting unit for general items,False,개,False,[]
+12,걱정,worry / concern,False,걱정,False,[]
+13,건강,health,False,건강,True,"[('健康', 'health')]"
+14,걷다,to walk,False,걷다,False,[]
+15,걸리다,to take (time),False,걸리다,False,[]
+16,결혼,marriage,False,결혼,False,"[('結婚', 'get married')]"
+17,결혼하다,to marry,True,결혼,False,"[('結婚', 'get married')]"
+18,계시다,to be/to stay (honorific),False,계시다,False,[]
+19,고기,meat,False,고기,False,[]
+20,고등학생,high school student,False,고등학생,True,"[('高等學生', 'a college student')]"
+21,고민,agony / worry,False,고민,False,"[('苦悶', 'anguish')]"
+22,공,zero,False,공,False,[]
+23,공부,study / learning,False,공부,False,"[('工夫', 'effort'), ('貢賦', 'gift')]"
+24,공부하다,to study,True,공부,False,"[('工夫', 'effort'), ('貢賦', 'gift')]"
+25,공원,park,False,공원,True,"[('公園', 'park')]"
+26,공책,notebook,False,공책,False,"[('空冊', 'an empty book')]"
+27,공항,airport,False,공항,False,"[('空港', 'an air port')]"
+28,과일,fruit,False,과일,False,[]
+29,괜찮다,alright,False,괜찮다,False,[]
+30,교실,classroom,False,교실,True,"[('敎室', 'classroom')]"
+31,구,nine,False,구,True,"[('九', 'nine'), ('玖', 'nine'), ('耉', 'nine')]"
+32,구두,dress shoes,False,구두,False,"[('口頭', 'a word of mouth')]"
+33,구월,September,False,구월,True,"[('九月', 'September')]"
+34,국적,nationality,False,국적,True,"[('國籍', 'nationality')]"
+35,귀,ear,False,귀,False,[]
+36,그,that,False,그,False,[]
+37,그거,that (one),False,그거,False,[]
+38,그래서,so,False,그래서,False,[]
+39,그런데,but/ by the way,False,그런데,False,[]
+40,그럼,then / in that case,False,그럼,False,[]
+41,그렇지만,but,False,그렇지만,False,[]
+42,그리고,and,False,그리고,False,[]
+43,그리다,to draw to paint,False,그리다,False,[]
+44,그림,picture / drawing,False,그림,False,[]
+45,그분,that person (honorific),False,그분,False,[]
+46,극장,movie theater,False,극장,True,"[('劇場', 'theater')]"
+47,금요일,Friday,False,금요일,False,"[('金曜日', 'a golden day')]"
+48,기다리다,to wait,False,기다리다,False,[]
+49,기분,feeling,False,기분,False,"[('氣分', 'air')]"
+50,기숙사,dormitory,False,기숙사,False,"[('寄宿舍', 'boarding house')]"
+51,기자,reporter,False,기자,False,"[('記者', 'a journalist')]"
+52,기차,train,False,기차,False,"[('汽車', 'an automobile')]"
+53,기차표,train ticket,False,기차표,False,[]
+54,기침,cough,False,기침,False,[]
+55,기타,guitar,False,기타,False,"[('其他', 'Other')]"
+56,길,road / way,False,길,False,[]
+57,길다,long,False,길다,False,[]
+58,김밥,gimbap,False,김밥,False,[]
+59,김치,kimchi,False,김치,False,[]
+60,까만색,black,False,까만색,False,[]
+61,깎다,to discount,False,깎다,False,[]
+62,꽃,flower,False,꽃,False,[]
+63,끝나다,to be finished,False,끝나다,False,[]
+64,끝내다,to finish,False,끝내다,False,[]
+65,나다,to have (a fever/a runny nose),False,나다,False,[]
+66,나쁘다,bad,False,나쁘다,False,[]
+67,나중에,"later, next time",False,나중에,False,[]
+68,날씨,weather,False,날씨,False,[]
+69,남동생,younger brother,False,남동생,False,[]
+70,남자,man male,False,남자,True,"[('男子', 'a man')]"
+71,남편,husband,False,남편,False,"[('男便', ""a man's stool"")]"
+72,낮다,low,False,낮다,False,[]
+73,내,my,False,내,False,[]
+74,내다,to pay,False,내다,False,[]
+75,내리다,to get off,False,내리다,False,[]
+76,내일,tomorrow,False,내일,False,"[('來日', 'the next day')]"
+77,냉면,naengmyeon,False,냉면,False,"[('冷麵', 'cold noodles')]"
+78,냉장고,refrigerator,False,냉장고,False,"[('冷藏庫', 'cold storage')]"
+79,너무,too,False,너무,False,[]
+80,넘어지다,fall down,False,넘어지다,False,[]
+81,네,four (when modifying a counting unit that follows),False,네,False,[]
+82,넷,four,False,넷,False,[]
+83,년,year,False,년,True,"[('哖', 'year'), ('年', 'year')]"
+84,노란색,yellow,False,노란색,False,[]
+85,노래하다,to sing,True,노래,False,[]
+86,녹색,green,False,녹색,True,"[('綠色', 'green')]"
+87,녹차,green tea,False,녹차,True,"[('綠茶', 'green tea')]"
+88,높다,high,False,높다,False,[]
+89,누가,who,False,누가,False,[]
+90,누구,who,False,누구,False,[]
+91,누나,elder sister from a male perspective,False,누나,False,[]
+92,눈,eye | snow,False,눈,False,[]
+93,눈사람,snowman,False,눈사람,False,[]
+94,뉴스,news,False,뉴스,False,[]
+95,뉴욕,New York,False,뉴욕,False,[]
+96,늦다,to be late,False,늦다,False,[]
+97,다니다,to go to (a company) / to work for,False,다니다,False,[]
+98,다른,other,False,다른,False,[]
+99,다리,leg,False,다리,False,[]
+100,다섯,five,False,다섯,False,[]
+101,다음,next,False,다음,False,[]
+102,다이어트,diet,False,다이어트,False,[]
+103,다치다,to be hurt,False,다치다,False,[]
+104,닫다,to close,False,닫다,False,[]
+105,달,month,False,달,False,[]
+106,달러,dollar,False,달러,False,[]
+107,달리다,to run,False,달리다,False,[]
+108,담배,cigarette,False,담배,False,[]
+109,대학생,college student,False,대학생,True,"[('大學生', 'a college student')]"
+110,대학생,university student,False,대학생,True,"[('大學生', 'a college student')]"
+111,더,more,False,더,False,[]
+112,덥다,hot,False,덥다,False,[]
+113,도서관,library,False,도서관,True,"[('圖書館', 'library')]"
+114,도와주다,to help,False,도와주다,False,[]
+115,도착하다,to arrive,True,도착,True,"[('到着', 'arrive')]"
+116,도쿄,Tokyo,False,도쿄,False,[]
+117,독일,Germany,False,독일,False,"[('獨逸', 'be alone')]"
+118,돈,money,False,돈,False,[]
+119,동생,younger brother or sister,False,동생,False,"[('同生', 'be of the same birth')]"
+120,두,two (when modifying a counting unit that follows),False,두,False,[]
+121,둘,two,False,둘,False,[]
+122,뒤,behind,False,뒤,False,[]
+123,뒷사람,person behind,False,뒷사람,False,[]
+124,드라마,drama (TV series),False,드라마,False,[]
+125,드시다,to eat (honorific),False,드시다,False,[]
+126,듣다,to listen to hear,False,듣다,False,[]
+127,들다,to be contained,False,들다,False,[]
+128,들어가다,to go in to enter,False,들어가다,False,[]
+129,등산,mountain climbing / hiking,False,등산,True,"[('登山', 'climb a mountain')]"
+130,따뜻하다,warm,True,따뜻,False,[]
+131,딸,daughter,False,딸,False,[]
+132,땀,sweat,False,땀,False,[]
+133,또,again / once more,False,또,False,[]
+134,똑똑하다,smart,True,똑똑,False,[]
+135,런던,London,False,런던,False,[]
+136,로마,Rome,False,로마,False,[]
+137,마드리드,Madrid,False,마드리드,False,[]
+138,만나다,to meet,False,만나다,False,[]
+139,만들다,to make,False,만들다,False,[]
+140,만지다,to touch,False,만지다,False,[]
+141,많다,many / much,False,많다,False,[]
+142,많이,a lot,False,많이,False,[]
+143,많이,many much,False,많이,False,[]
+144,말레이시아,Malaysia,False,말레이시아,False,[]
+145,말하기,speaking,False,말하기,False,[]
+146,맛없다,untasty,False,맛없다,False,[]
+147,맛있다,tasty / delicious,False,맛있다,False,[]
+148,맞다,right,False,맞다,False,[]
+149,매일,every day,False,매일,True,"[('每日', 'every day')]"
+150,매일,everyday,False,매일,False,"[('每日', 'every day')]"
+151,맥주,beer,False,맥주,False,"[('麥酒', 'ale')]"
+152,맵다,hot and spicy,False,맵다,False,[]
+153,머리,head,False,머리,False,[]
+154,먹다,to eat,False,먹다,False,[]
+155,멀다,far,False,멀다,False,[]
+156,멋있다,"to be nice, to be stylish",False,멋있다,False,[]
+157,메뉴,menu,False,메뉴,False,[]
+158,며칠,what date,False,며칠,False,[]
+159,명,counting unit for people,False,명,False,[]
+160,명동,Myeong-dong,False,명동,False,"[('鳴動', 'chime')]"
+161,명동역,Myeongdong Station,False,명동역,False,[]
+162,몇,how many,False,몇,False,[]
+163,모자,hat / cap,False,모자,True,"[('帽子', 'hat')]"
+164,목,neck throat,False,목,False,[]
+165,목요일,Thursday,False,목요일,False,"[('木曜日', 'obsidian day')]"
+166,무겁다,heavy,False,무겁다,False,[]
+167,무섭다,scary,False,무섭다,False,[]
+168,무슨,what kind of,False,무슨,False,[]
+169,문,door,False,문,True,"[('門', 'door'), ('门', 'door')]"
+170,물,water,False,물,False,[]
+171,뭐,what,False,뭐,False,[]
+172,뭘,what (object),False,뭘,False,[]
+173,미국,the United States of America,False,미국,True,"[('美國', 'the United States')]"
+174,미안하다,sorry,True,미안,False,"[('未安', 'anxiety')]"
+175,바꾸다,to change,False,바꾸다,False,[]
+176,바꾸다,to exchange,False,바꾸다,False,[]
+177,바나나,banana,False,바나나,False,[]
+178,바다,sea ocean,False,바다,False,[]
+179,바쁘다,busy,False,바쁘다,False,[]
+180,바지,trousers pants,False,바지,False,[]
+181,밖,outside,False,밖,False,[]
+182,반,half,False,반,True,"[('半', 'half')]"
+183,받다,to receive /to take /to get,False,받다,False,[]
+184,발,foot,False,발,False,[]
+185,밥,"steamed rice, meal",False,밥,False,[]
+186,방,room with a bed,False,방,False,[]
+187,방콕,Bangkok,False,방콕,False,[]
+188,방학,school holidays,False,방학,True,"[('放學', 'leave school')]"
+189,배,"abdomen, stomach | ship/boat",False,배,False,[]
+190,배고프다,hungry,False,배고프다,False,[]
+191,배우다,to learn,False,배우다,False,[]
+192,백,hundred,False,백,True,"[('佰', 'hundred'), ('百', 'hundred')]"
+193,백화점,department store,False,백화점,True,"[('百貨店', 'department store')]"
+194,버스,bus,False,버스,False,[]
+195,번,counting unit after number,False,번,False,[]
+196,벌써,already,False,벌써,False,[]
+197,벗다,to take off,False,벗다,False,[]
+198,베이징,Beijing,False,베이징,False,[]
+199,베트남,Vietnam,False,베트남,False,[]
+200,별로,"not really, not particularly",False,별로,False,[]
+201,병,counting unit for bottles,False,병,False,[]
+202,병원,hospital,False,병원,True,"[('病院', 'a hospital')]"
+203,보내다,to send,False,보내다,False,[]
+204,보내다,to send / to mail,False,보내다,False,[]
+205,보다,"to see, to watch, to look at",False,보다,False,[]
+206,복잡하다,crowded jammed,True,복잡,False,"[('複雜', 'complicated')]"
+207,볼펜,ball-point pen,False,볼펜,False,[]
+208,부산,Busan,False,부산,False,"[('釜山', 'Busan, Republic of')]"
+209,부엌,kitchen,False,부엌,False,[]
+210,부치다,to send / to mail,False,부치다,False,[]
+211,분,minute,False,분,False,[]
+212,불고기,bulgogi,False,불고기,False,[]
+213,브라질,Brasil,False,브라질,False,[]
+214,비,rain,False,비,True,"[('榧', 'heavy rain')]"
+215,비빔밥,bibimbap,False,비빔밥,False,[]
+216,비싸다,expensive,False,비싸다,False,[]
+217,비행기,airplane,False,비행기,False,"[('飛行機', 'a flying machine')]"
+218,빌딩,building,False,빌딩,False,[]
+219,빠르다,to be fast,False,빠르다,False,[]
+220,빨간색,red,False,빨간색,False,[]
+221,빨래하다,to do laundry,True,빨래,False,[]
+222,빨리,quickly,False,빨리,False,[]
+223,빵,bread,False,빵,False,[]
+224,사,four,False,사,True,"[('四', 'four')]"
+225,사과,apple,False,사과,False,[]
+226,사다,to buy,False,사다,False,[]
+227,사람,"human, person",False,사람,False,[]
+228,사람,person,False,사람,False,[]
+229,사랑하다,to love,True,사랑,False,"[('舍廊', 'a private residence')]"
+230,사무실,office,False,사무실,True,"[('事務室', 'office')]"
+231,사용하다,to use,True,사용,True,"[('使用', 'use'), ('私用', 'private use')]"
+232,사월,April,False,사월,True,"[('四月', 'April')]"
+233,사전,dictionary,False,사전,True,"[('辭典', 'dictionary')]"
+234,사진,photograph,False,사진,True,"[('寫眞', 'photograph')]"
+235,산,mountain,False,산,True,"[('山', 'mountain')]"
+236,살,-years old/counting unit for age | flesh,False,살,False,[]
+237,살다,to live,False,살다,False,[]
+238,삼,three,False,삼,True,"[('三', 'three'), ('仨', 'three')]"
+239,삼성역,Samseong Station,False,삼성역,False,[]
+240,삼월,March,False,삼월,True,"[('三月', 'March')]"
+241,색,color,False,색,False,[]
+242,생각,thinking / thought,False,생각,False,[]
+243,생선,fish,False,생선,False,"[('生鮮', 'fresh')]"
+244,생선회,sliced raw fish,False,생선회,True,"[('生鮮膾', 'raw and fresh meat and vegetable dish')]"
+245,생일,birthday,False,생일,True,"[('生日', 'birthday')]"
+246,샤워하다,to take a shower,True,샤워,False,[]
+247,서울,Seoul,False,서울,False,[]
+248,선생님,teacher,False,선생님,False,[]
+249,성함,name (honorific),False,성함,False,"[('姓銜', 'title')]"
+250,세,three (when modifying a counting unit that follows),False,세,False,[]
+251,세우다,to stop,False,세우다,False,[]
+252,세일,sale,False,세일,False,[]
+253,세탁소,dry cleaner's,False,세탁소,False,"[('洗濯所', 'a washing house')]"
+254,셋,three,False,셋,False,[]
+255,소파,sofa,False,소파,False,[]
+256,소포,parcel,False,소포,False,"[('小包', 'a small bag')]"
+257,손,hand,False,손,False,[]
+258,손님,customer / guest,False,손님,False,[]
+259,수영,swimming,False,수영,False,"[('水泳', 'swim in the water')]"
+260,수영장,swimming pool,False,수영장,True,"[('水泳場', 'a swimming pool')]"
+261,수영하다,to swim,True,수영,True,"[('水泳', 'swim in the water')]"
+262,수요일,Wednesday,False,수요일,False,"[('水曜日', 'obsidian day of water')]"
+263,숙제,homework,False,숙제,False,"[('宿題', 'a long-standing problem')]"
+264,숙제하다,to do homework,True,숙제,False,"[('宿題', 'a long-standing problem')]"
+265,숟가락,spoon,False,숟가락,False,[]
+266,술,liquor,False,술,False,[]
+267,쉬다,to rest,False,쉬다,False,[]
+268,쉽다,easy,False,쉽다,False,[]
+269,스키,skiing,False,스키,False,[]
+270,스키장,ski resort,False,스키장,False,[]
+271,스파게티,spaghetti,False,스파게티,False,[]
+272,슬프다,sad,False,슬프다,False,[]
+273,시,o'clock,False,시,False,[]
+274,시간,hour,False,시간,False,"[('時間', 'time')]"
+275,시간표,time table,False,시간표,False,"[('時間表', 'timetable')]"
+276,시계,watch / clock,False,시계,False,[]
+277,시끄럽다,noisy,False,시끄럽다,False,[]
+278,시내,downtown,False,시내,False,"[('市內', 'the inner city')]"
+279,시월,October,False,시월,True,"[('十月', 'October')]"
+280,시장,market,False,시장,True,"[('市場', 'market')]"
+281,시청,city hall,False,시청,True,"[('市廳', 'city hall')]"
+282,시청역,City Hall Station,False,시청역,False,[]
+283,시험,test,False,시험,False,"[('試驗', 'experiment')]"
+284,식당,restaurant,False,식당,False,"[('食堂', 'dining room')]"
+285,신다,to put on (shoes),False,신다,False,[]
+286,신문,newspaper,False,신문,False,"[('新聞', 'news'), ('訊問', 'interrogate')]"
+287,신발,shoes,False,신발,False,[]
+288,심심하다,bored,True,심심,False,"[('甚深', 'deep')]"
+289,십,ten,False,십,True,"[('十', 'ten')]"
+290,십만,hundred thousand,False,십만,True,"[('十萬', 'one hundred thousand')]"
+291,십이월,December,False,십이월,True,"[('十二月', 'December')]"
+292,십일월,November,False,십일월,True,"[('十一月', 'November')]"
+293,싸다,cheap,False,싸다,False,[]
+294,쓰다,to wear /to put on (a hat),False,쓰다,False,[]
+295,쓰다,to write,False,쓰다,False,[]
+296,씨,"Mr., Miss, Mrs., Ms.",False,씨,False,"[('氏', 'the last year')]"
+297,아기,baby,False,아기,False,[]
+298,아까,"earlier (today), a while ago (today)",False,아까,False,[]
+299,아내,wife,False,아내,False,[]
+300,아들,son,False,아들,False,[]
+301,아래,under / below,False,아래,False,[]
+302,아버지,father,False,아버지,False,[]
+303,아이,child,False,아이,False,[]
+304,아이스크림,ice cream,False,아이스크림,False,[]
+305,아주,"very, quite",False,아주,False,[]
+306,아직,"(not) yet, still",False,아직,False,[]
+307,아침,morning,False,아침,False,[]
+308,아프다,ill /in pain hurt,False,아프다,False,[]
+309,아프다,to be hurting,False,아프다,False,[]
+310,아프리카,Africa,False,아프리카,False,[]
+311,아홉,nine,False,아홉,False,[]
+312,악수하다,to shake hands,True,악수,True,"[('握手', 'shake hands')]"
+313,안,inside,False,안,False,[]
+314,안,not,False,안,False,[]
+315,안내,information guide,False,안내,False,"[('案內', 'the inside')]"
+316,앉다,to sit down,False,앉다,False,[]
+317,앞,front,False,앞,False,[]
+318,야구,baseball,False,야구,False,"[('野球', 'a wild ball')]"
+319,야채,vegetable,False,야채,False,"[('野菜', 'wild vegetables')]"
+320,약,medicine,False,약,True,"[('药', 'medicine'), ('葯', 'medicine'), ('藥', 'medicine')]"
+321,약국,pharmacy,False,약국,True,"[('藥局', 'pharmacy')]"
+322,약속,appointment,False,약속,False,"[('約束', 'constrain')]"
+323,어깨,shoulder,False,어깨,False,[]
+324,어디,where,False,어디,False,[]
+325,어떤,what kind of,False,어떤,False,[]
+326,어떻게,how,False,어떻게,False,[]
+327,어렵다,difficult,False,어렵다,False,[]
+328,어머니,mother,False,어머니,False,[]
+329,어제,yesterday,False,어제,False,[]
+330,언니,elder sister (female pov),False,언니,False,[]
+331,언제,when,False,언제,False,[]
+332,얼마,how much,False,얼마,False,[]
+333,얼마나,how long,False,얼마나,False,[]
+334,없다,not to have,False,없다,False,[]
+335,여기,here,False,여기,False,[]
+336,여덟,eight,False,여덟,False,[]
+337,여동생,younger sister,False,여동생,False,"[('女同生', 'a coed student')]"
+338,여섯,six,False,여섯,False,[]
+339,여자,woman female,False,여자,True,"[('女子', 'a woman')]"
+340,여행,trip travel,False,여행,True,"[('旅行', 'travel')]"
+341,여행사,travel agency,False,여행사,True,"[('旅行社', 'travel agency')]"
+342,여행하다,to travel,True,여행,True,"[('旅行', 'travel')]"
+343,연구원,researcher,False,연구원,True,"[('硏究員', 'researcher')]"
+344,연필,pencil,False,연필,True,"[('鉛筆', 'pencil')]"
+345,열,fever,False,열,False,[]
+346,열,ten,False,열,False,[]
+347,열다,to open,False,열다,False,[]
+348,엽서,postcard,False,엽서,False,"[('葉書', 'leaf book')]"
+349,영국,the United Kingdom,False,영국,True,"[('英國', 'the United Kingdom')]"
+350,영어,English (language),False,영어,True,"[('英語', 'English')]"
+351,영화,movie,False,영화,False,"[('映畵', 'picture'), ('榮華', 'be in glory')]"
+352,옆,beside side,False,옆,False,[]
+353,예쁘다,pretty,False,예쁘다,False,[]
+354,예술의,arts,False,예술의,False,[]
+355,예약하다,to reserve,True,예약,False,"[('豫約', 'promise')]"
+356,오,five,False,오,False,[]
+357,오늘,today,False,오늘,False,[]
+358,오다,to come,False,오다,False,[]
+359,오렌지,orange,False,오렌지,False,[]
+360,오른쪽,right side,False,오른쪽,False,[]
+361,오빠,elder brother from a female perspective,False,오빠,False,[]
+362,오월,May,False,오월,False,"[('五月', 'May.')]"
+363,오전,morning / a.m.,False,오전,False,"[('午前', 'before noon')]"
+364,오후,afternoon / p.m.,False,오후,True,"[('午後', 'afternoon')]"
+365,온돌방,traditional Korean room / hot-floored room,False,온돌방,False,"[('溫突房', 'thermal shock chamber')]"
+366,옷,clothes,False,옷,False,[]
+367,옷장,wardrobe / closet,False,옷장,False,[]
+368,왜,why,False,왜,False,[]
+369,외국,foreign country,False,외국,True,"[('外國', 'foreign country')]"
+370,왼쪽,left side,False,왼쪽,False,[]
+371,요금,fare charge,False,요금,False,"[('料金', 'material gold'), ('料金', 'material gold')]"
+372,요리,cooking,False,요리,False,"[('料理', 'cook')]"
+373,요리사,chef,False,요리사,False,"[('料理師', 'cook')]"
+374,요리하다,to cook,True,요리,True,"[('料理', 'cook')]"
+375,요일,a day of the week,False,요일,True,"[('曜日', 'observation day')]"
+376,요즘,these days nowadays,False,요즘,False,[]
+377,우리,we / our,False,우리,False,[]
+378,우산,umbrella,False,우산,True,"[('雨傘', 'umbrella')]"
+379,우유,milk,False,우유,True,"[('牛乳', 'milk')]"
+380,우체국,post office,False,우체국,True,"[('郵遞局', 'post office')]"
+381,운동,exercise / workout,False,운동,True,"[('運動', 'exercise')]"
+382,운동하다,to exercise / to work out,True,운동,True,"[('運動', 'exercise')]"
+383,운전,driving,False,운전,False,"[('運轉', 'run')]"
+384,운전하다,to drive,True,운전,False,"[('運轉', 'run')]"
+385,원,KRW / won (Korean money),False,원,False,[]
+386,월,month,False,월,True,"[('月', 'month')]"
+387,월요일,Monday,False,월요일,False,"[('月曜日', 'obsidian day')]"
+388,위,above / on,False,위,False,[]
+389,유럽,Europe,False,유럽,False,[]
+390,육,six,False,육,False,[]
+391,은행,bank,False,은행,True,"[('銀行', 'bank')]"
+392,은행원,bank clerk,False,은행원,False,"[('銀行員', 'banker')]"
+393,음식,food,False,음식,False,"[('飮食', '食eat')]"
+394,음악,music,False,음악,True,"[('音樂', 'music')]"
+395,의사,doctor,False,의사,False,[]
+396,의자,chair,False,의자,True,"[('椅子', 'chair')]"
+397,이,this,False,이,False,[]
+398,이,two,False,이,True,"[('二', 'two'), ('貳', 'two'), ('贰', 'two')]"
+399,이거,this (one),False,이거,False,[]
+400,이렇게,like this /in this way,False,이렇게,False,[]
+401,이름,name,False,이름,False,[]
+402,이메일,e-mail,False,이메일,False,[]
+403,이번,this time,False,이번,False,[]
+404,이분,this person (honorific),False,이분,False,[]
+405,이상하다,to be strange,True,이상,False,[]
+406,이야기하다,to talk,True,이야기,False,[]
+407,이용,use,False,이용,True,"[('利用', 'make use')]"
+408,인도,India,False,인도,False,[]
+409,인사동,Insa-dong,False,인사동,False,[]
+410,인천공항,Incheon Airport,False,인천공항,True,"[('仁川空港', 'Incheon Airport')]"
+411,일,day,False,일,True,"[('日', 'day')]"
+412,일,one,False,일,True,"[('一', 'one'), ('壹', 'one')]"
+413,일,work,False,일,False,[]
+414,일곱,seven,False,일곱,False,[]
+415,일기,diary,False,일기,True,"[('日記', 'diary')]"
+416,일본,Japan,False,일본,True,"[('日本', 'Japan')]"
+417,일본어,Japanese (language),False,일본어,True,"[('日本語', 'Japanese language')]"
+418,일어나다,to get up,False,일어나다,False,[]
+419,일요일,Sunday,False,일요일,False,"[('日曜日', 'obsidian day')]"
+420,일하다,to work,True,일,False,[]
+421,읽다,to read,False,읽다,False,[]
+422,입다,to wear / to put on,False,입다,False,[]
+423,있다,to have,False,있다,False,[]
+424,자다,to sleep,False,자다,False,[]
+425,자리,seat place,False,자리,False,[]
+426,자전거,bicycle,False,자전거,False,"[('自轉車', 'a revolving car')]"
+427,자주,often,False,자주,False,"[('自主', 'independence')]"
+428,작년,last year,False,작년,True,"[('昨年', 'last year')]"
+429,작다,small,False,작다,False,[]
+430,잔,counting unit for glasses or cups,False,잔,False,[]
+431,잘하다,be good at,True,잘,False,"[('乽', nan), ('囐', nan)]"
+432,장미,rose,False,장미,True,"[('薔薇', 'rose')]"
+433,재미없다,not interesting,False,재미없다,False,[]
+434,재미있다,interesting,False,재미있다,False,[]
+435,저,he / she,False,저,False,[]
+436,저,that,False,저,False,[]
+437,저거,that (one),False,저거,False,[]
+438,저녁,evening,False,저녁,False,[]
+439,저분,that person (honorific),False,저분,False,[]
+440,전혀,not at all,False,전혀,False,[]
+441,전화,cellular phone/mobile,False,전화,False,"[('轉化', 'convert'), ('電話', 'Phone number.')]"
+442,전화번호,telephone number,False,전화번호,True,"[('電話番號', 'a telephone number')]"
+443,전화하다,to call,True,전화,False,"[('轉化', 'convert'), ('電話', 'Phone number.')]"
+444,점심,lunch,False,점심,False,"[('點心', 'confection')]"
+445,젓가락,chopsticks,False,젓가락,False,[]
+446,정말,"really, truly",False,정말,False,[]
+447,제,my,False,제,False,[]
+448,제주도,Jeju Island,False,제주도,True,"[('濟州島', 'Jeju Island')]"
+449,조금,"a little, a bit, a little bit",False,조금,False,[]
+450,좀,please,False,좀,False,[]
+451,좋다,good,False,좋다,False,[]
+452,좋아하다,to like,True,좋아,False,[]
+453,주다,to give,False,주다,False,[]
+454,주말,weekend,False,주말,True,"[('週末', 'weekend')]"
+455,주소,address,False,주소,False,"[('住所', 'residence')]"
+456,주스,juice,False,주스,False,[]
+457,주일,week,False,주일,False,[]
+458,주차장,parking lot,False,주차장,True,"[('駐車場', 'parking lot')]"
+459,준비하다,to prepare,True,준비,False,"[('準備', 'Get ready.')]"
+460,중국,China,False,중국,True,"[('中國', 'China')]"
+461,중국어,Chinese (language),False,중국어,True,"[('中國語', 'Chinese language')]"
+462,중학생,middle school student,False,중학생,True,"[('中學生', 'a middle school student')]"
+463,지갑,wallet,False,지갑,False,"[('紙匣', 'a paper box')]"
+464,지금,now,False,지금,True,"[('只今', 'only now')]"
+465,지난,last,False,지난,False,"[('至難', 'the greatest difficulty')]"
+466,지우개,eraser,False,지우개,False,[]
+467,지하철,subway,False,지하철,True,"[('地下鐵', 'subway')]"
+468,지하철역,subway station,False,지하철역,True,"[('地下鐵驛', 'subway station')]"
+469,직업,job/ occupation,False,직업,True,"[('職業', 'occupation')]"
+470,직원,staff,False,직원,True,"[('職員', 'staff')]"
+471,질문,question,False,질문,True,"[('質問', 'question')]"
+472,집,house,False,집,False,[]
+473,집안일,chores,False,집안일,False,[]
+474,짧다,short,False,짧다,False,[]
+475,쯤,about / around,False,쯤,False,[]
+476,찌다,to gain (weight),False,찌다,False,[]
+477,찍다,to take (a picture),False,찍다,False,[]
+478,차,car,False,차,True,"[('車', 'car'), ('车', 'car')]"
+479,차,tea,False,차,False,[]
+480,착하다,to be kind,True,착,False,[]
+481,찬물,cold water,False,찬물,False,[]
+482,참,very / really,False,참,False,[]
+483,창문,window,False,창문,False,"[('窓門', '门door')]"
+484,찾다,to look for,False,찾다,False,[]
+485,책,book,False,책,True,"[('冊', 'book'), ('册', 'book')]"
+486,책방,bookstore,False,책방,False,"[('冊房', 'a bookshop')]"
+487,책상,desk,False,책상,False,"[('冊床', 'a bookmaking')]"
+488,천,thousand,False,천,True,"[('仟', 'thousand'), ('千', 'thousand'), ('韆', 'thousand')]"
+489,청바지,jeans,False,청바지,False,[]
+490,청소,cleaning,False,청소,False,"[('淸掃', 'clean up')]"
+491,청소하다,to clean,True,청소,True,"[('淸掃', 'clean up')]"
+492,초등학생,elementary school student,False,초등학생,True,"[('初等學生', 'elementary school student')]"
+493,추석,the Korean Thanksgiving,False,추석,False,"[('秋夕', 'autumn evening')]"
+494,축구,soccer,False,축구,False,"[('蹴球', 'kick a ball')]"
+495,출근하다,to go to work,True,출근,False,"[('出勤', 'attendance')]"
+496,출발,departure,False,출발,False,"[('出發', ""Let's go."")]"
+497,출발하다,to depart,True,출발,False,"[('出發', ""Let's go."")]"
+498,춤추다,to dance,False,춤추다,False,[]
+499,춥다,cold,False,춥다,False,[]
+500,층,floor,False,층,False,[]
+501,치다,to play / to hit / to strike,False,치다,False,[]
+502,치마,skirt,False,치마,False,[]
+503,친구,friend,False,친구,False,"[('親舊', 'close friendship with the old.')]"
+504,칠,seven,False,칠,True,"[('七', 'seven'), ('柒', 'seven')]"
+505,침대,bed,False,침대,False,"[('寢臺', 'bedside')]"
+506,카메라,camera,False,카메라,False,[]
+507,캐나다,Canada,False,캐나다,False,[]
+508,커피,coffee,False,커피,False,[]
+509,커피숍,coffee shop,False,커피숍,False,[]
+510,컴퓨터,computer,False,컴퓨터,False,[]
+511,케이크,cake,False,케이크,False,[]
+512,코,nose,False,코,False,[]
+513,코트,coat,False,코트,False,[]
+514,콜라,cola,False,콜라,False,[]
+515,콧물,runny nose,False,콧물,False,[]
+516,크다,big,False,크다,False,[]
+517,타다,to get on to ride,False,타다,False,[]
+518,태권도,taekwondo,False,태권도,False,"[('跆拳道', 'kickboxing')]"
+519,택시,taxi,False,택시,False,[]
+520,테니스,tennis,False,테니스,False,[]
+521,텔레비전,television,False,텔레비전,False,[]
+522,토요일,Saturday,False,토요일,False,"[('土曜日', 'obsidian day')]"
+523,투표,vote,False,투표,False,"[('投票', ""cast one's ballot"")]"
+524,투표하다,to vote,True,투표,False,"[('投票', ""cast one's ballot"")]"
+525,특히,especially,False,특히,False,[]
+526,티셔츠,T-shirt,False,티셔츠,False,[]
+527,파란색,blue,False,파란색,False,[]
+528,파리,Paris,False,파리,False,[]
+529,파티,party,False,파티,False,[]
+530,팔,arm,False,팔,False,[]
+531,팔,eight,False,팔,True,"[('八', 'eight'), ('捌', 'eight')]"
+532,편지,letter,False,편지,False,"[('便紙', 'paper')]"
+533,편하다,comfortable,True,편,False,[]
+534,포도,grape,False,포도,True,"[('葡萄', 'grape')]"
+535,포크,fork,False,포크,False,[]
+536,표,ticket,False,표,True,"[('票', 'ticket')]"
+537,프랑스,France,False,프랑스,False,[]
+538,프랑스어,French (language),False,프랑스어,False,[]
+539,피,blood,False,피,False,[]
+540,피곤하다,tired,True,피곤,True,"[('疲困', 'be tired and sleepy')]"
+541,피라미드,pyramid,False,피라미드,False,[]
+542,피아노,piano,False,피아노,False,[]
+543,피우다,to smoke (a cigarette),False,피우다,False,[]
+544,피자,pizza,False,피자,False,[]
+545,하나,one,False,하나,False,[]
+546,하다,to do,True,,False,[]
+547,하루,one day,False,하루,False,[]
+548,하얀색,white,False,하얀색,False,[]
+549,학교,school,False,학교,True,"[('學校', 'school')]"
+550,학생,student,False,학생,True,"[('學生', 'student')]"
+551,한,one (when modifying a counting unit that follows),False,한,False,[]
+552,한국,Korea,False,한국,False,"[('韓國', '韓國')]"
+553,한국어,Korean (language),False,한국어,False,"[('韓國語', 'Korea language')]"
+554,한라산,Hallasan,False,한라산,False,"[('漢拏山', 'Mt. Hanyeol Mountain')]"
+555,한번,once,False,한번,False,[]
+556,한복,hanbok (traditional Korean costume),False,한복,True,"[('韓服', 'hanbok')]"
+557,할머니,grandmother,False,할머니,False,[]
+558,할아버지,grandfather,False,할아버지,False,[]
+559,항상,always,False,항상,False,"[('恒常', 'constantly')]"
+560,핸드폰,mobile phone,False,핸드폰,False,[]
+561,햄버거,hamburger,False,햄버거,False,[]
+562,허리,waist,False,허리,False,[]
+563,형,elder brother from a male perspective,False,형,True,"[('兄', 'elder brother')]"
+564,형,older brother,False,형,True,"[('兄', 'elder brother')]"
+565,호선,subway line number,False,호선,True,"[('號線', 'line')]"
+566,호주,Australia,False,호주,False,"[('戶主', 'the head of a household'), ('濠洲', 'Hao Chau, New Territories')]"
+567,호텔,hotel,False,호텔,False,[]
+568,혼자,alone,False,혼자,False,[]
+569,홍차,black tea,False,홍차,True,"[('紅茶', 'black tea')]"
+570,화요일,Tuesday,False,화요일,False,"[('火曜日', 'obsidian day')]"
+571,화장실,rest room,False,화장실,False,"[('化粧室', 'make-up')]"
+572,회사,company,False,회사,False,"[('會社', 'association')]"
+573,회사원,company employee,False,회사원,False,"[('會社員', 'a member of a society')]"
+574,회색,grey,False,회색,False,"[('灰色', 'grayish')]"
+575,회의하다,to hold a meeting,True,회의,False,"[('懷疑', 'doubt'), ('會議', 'conference')]"
+576,휴가,leave / vacation,False,휴가,False,"[('休暇', 'break')]"
+577,휴대,being portable,False,휴대,False,"[('携帶', 'carry')]"
+578,힘들다,laborous hard,False,힘들다,False,[]
